@@ -1,2 +1,8 @@
 # SolidWorks lock files (created while a file is open in SolidWorks)
 ~$*
+
+# SolidWorks Simulation results (CWR files can be multiple GB)
+FEA/
+
+# SolidWorks Visualize project file
+*.svpj
